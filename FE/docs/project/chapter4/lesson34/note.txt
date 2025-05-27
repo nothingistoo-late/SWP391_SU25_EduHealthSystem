@@ -1,2 +1,0 @@
-Cài đặt immer hook: 
-npm install --save-exact use-immer@0.7.0 immer@9.0.15
